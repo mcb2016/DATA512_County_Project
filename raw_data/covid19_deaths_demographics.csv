@@ -1,0 +1,12 @@
+﻿group,deaths,deaths_per_100k,OBJECTID
+Male,1234,260.6,0
+Female,1322,251.8,1
+39 and younger,17,3.4,2
+40 to 49,53,44.4,3
+50 to 59,143,100.1,4
+60 to 69,386,315.8,5
+70 to 79,574,825.6,6
+80 and older,1383,2855.1,7
+Black or African American,751,312.5,8
+White,1723,252.3,9
+All other racial groups,68,90.2,10

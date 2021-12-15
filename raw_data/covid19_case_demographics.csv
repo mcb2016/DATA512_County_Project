@@ -1,0 +1,19 @@
+﻿group,cases,rate_per_100k,OBJECTID
+Male,58920,12440.6,0
+Female,71441,13605.9,1
+9 and younger,8207,6919.8,2
+10 to 19,15910,12494.8,3
+20 to 29,22149,17474,4
+30 to 39,20045,16236.4,5
+40 to 49,17660,14778.9,6
+50 to 59,18309,12816.9,7
+60 to 69,14312,11709.3,8
+70 to 79,7748,11144,9
+80 and older,6682,13794.7,10
+Asian,2291,5507.1,11
+Black or African American,30945,12877,12
+Two or more races,2164,9153.2,13
+White,58546,8572.3,14
+All other racial groups,1199,11795.4,15
+Hispanic or Latino,3053,10786.8,16
+Not Hispanic or Latino,82398,8491.3,17
