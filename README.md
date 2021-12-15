@@ -22,3 +22,5 @@ Source: https://github.com/nytimes/covid-19-data
 Source: https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv
 
 ## Directory Tree
+
+![image](https://user-images.githubusercontent.com/92059047/146133002-a47ef856-85cf-40eb-aa6d-c593f5347a52.png)
