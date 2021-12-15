@@ -27,7 +27,7 @@ Google Cloud Platform API Documentation: https://github.com/GoogleCloudPlatform/
 
 ![image](https://user-images.githubusercontent.com/92059047/146133416-cf22871b-2618-4bfe-963e-af8873a856f3.png)
 
-## Data Structure
+## Data Structure of Finalized Data
 
 ### MO_stlouis_v_rural
 
@@ -41,3 +41,27 @@ Google Cloud Platform API Documentation: https://github.com/GoogleCloudPlatform/
 | deaths | number of deaths in county on date |
 | deaths_avg | average number of deaths in county |
 | deaths_avg_per_100k | average number of deaths in county per 100k residents |
+
+### Case_by_Demographic
+
+| Attribute | Definition |
+|-----------|------------|
+| Sex | Biological Sex Categorization of Residents |
+| Age Group | Age Group Categorization of Residents |
+| Cases | Confirmed Covid Cases in St. Louis County |
+| Case_Rate | Confirmed Covid Case Rate in St. Louis County |
+
+### Case_by_Race
+
+| Attribute | Definition |
+|-----------|------------|
+| Race | Race Categorization of Residents |
+| Age Group | Age Group Categorization of Residents |
+| Cases | Confirmed Covid Cases in St. Louis County |
+
+### stlouis_covid_econ_data
+
+| Attribute | Definition |
+|-----------|------------|
+| Observation | Month of Unemployment data collection point |
+| MOSLURN | Bureau of Labor Statistics (BLS) Metric for measuring unemployment |
