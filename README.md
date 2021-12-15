@@ -23,4 +23,5 @@ Source: https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-unive
 
 ## Directory Tree
 
-![image](https://user-images.githubusercontent.com/92059047/146133002-a47ef856-85cf-40eb-aa6d-c593f5347a52.png)
+![image](https://user-images.githubusercontent.com/92059047/146133174-67bfb6d6-89ad-43de-bb14-99acd99d19f7.png)
+
