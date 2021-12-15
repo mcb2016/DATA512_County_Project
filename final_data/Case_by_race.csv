@@ -1,0 +1,42 @@
+Race,Age_group,Cases
+African American,Unreported,5
+African American,0-9,755
+African American,10-19,1227
+African American,20-29,1841
+African American,30-39,1829
+African American,40-49,1462
+African American,50-59,1464
+African American,60-69,1330
+African American,70-79,605
+African American,80-89,262
+African American,90+,91
+Asian,0-9,29
+Asian,10-19,30
+Asian,20-29,129
+Asian,30-39,102
+Asian,40-49,53
+Asian,50-59,33
+Asian,60-69,27
+Asian,70-79,20
+Asian,80-89,11
+Caucasian,0-9,315
+Caucasian,10-19,411
+Caucasian,20-29,1798
+Caucasian,30-39,1431
+Caucasian,40-49,789
+Caucasian,50-59,789
+Caucasian,60-69,720
+Caucasian,70-79,370
+Caucasian,80-89,170
+Caucasian,90+,70
+Other or Unreported,Unreported,5
+Other or Unreported,0-9,729
+Other or Unreported,10-19,1221
+Other or Unreported,20-29,3679
+Other or Unreported,30-39,3189
+Other or Unreported,40-49,2089
+Other or Unreported,50-59,1802
+Other or Unreported,60-69,1292
+Other or Unreported,70-79,499
+Other or Unreported,80-89,161
+Other or Unreported,90+,42
