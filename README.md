@@ -29,3 +29,15 @@ Google Cloud Platform API Documentation: https://github.com/GoogleCloudPlatform/
 
 ## Data Structure
 
+### MO_stlouis_v_rural
+
+| Attribute | Definition |
+|-----------|------------|
+| county | Name of county in the United States |
+| date | Date of data collection point |
+| cases | number of cases in county on date |
+| cases_avg | average number of cases in county |
+| cases_avg_per_100k | average number of cases in county per 100k residents |
+| deaths | number of deaths in county on date |
+| deaths_avg | average number of deaths in county |
+| deaths_avg_per_100k | average number of deaths in county per 100k residents |
