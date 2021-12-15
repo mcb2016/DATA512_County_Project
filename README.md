@@ -25,9 +25,11 @@ Google Cloud Platform API Documentation: https://github.com/GoogleCloudPlatform/
 
 ## Directory Tree
 
-![image](https://user-images.githubusercontent.com/92059047/146133416-cf22871b-2618-4bfe-963e-af8873a856f3.png)
+![image](https://user-images.githubusercontent.com/92059047/146136478-dc4bbe4c-252a-43e8-ae1b-5b7bdb97982b.png)
 
 ## Data Structure of Finalized Data
+
+All the final datasets that are used for the analyses are stored in the final_data folder, the raw data used to build these datasets exist in the raw_data folder. Some of them are the raw data were downloaded from the Google Cloud Platform API, whereas others are intermediate files saved in the raw_data folder for convenience and to ensure reproducibility.
 
 ### MO_stlouis_v_rural
 
