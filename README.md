@@ -21,6 +21,8 @@ Source: https://github.com/nytimes/covid-19-data
 •	Raw US Confirmed Cases: contains the confirmed cases for states & counties throughout the U.S. from the Kaggle repository of John Hopkins University COVID-19 data. 
 Source: https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv
 
+Google Cloud Platform API Documentation: https://github.com/GoogleCloudPlatform/covid-19-open-data
+
 ## Directory Tree
 
 ![image](https://user-images.githubusercontent.com/92059047/146133416-cf22871b-2618-4bfe-963e-af8873a856f3.png)
